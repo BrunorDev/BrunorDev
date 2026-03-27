@@ -9,6 +9,6 @@ Sou um estudante entusiasta do desenvolvimento back-end, com ênfase em **Java e
 
 ### 🚀 **Tecnologias & Ferramentas** 
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,docker,git,github)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,docker,git,github,RabbitMQ-Dark.svg)](https://skillicons.dev)  
 
 
